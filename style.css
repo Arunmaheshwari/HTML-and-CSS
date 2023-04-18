@@ -1,0 +1,20 @@
+nav a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    float: left;
+    
+}
+nav{
+    background-color: rgb(135, 250, 212);
+    overflow: hidden;
+}
+
+nav a:hover{
+    color: blue;
+}
+
+nav a:visited{
+    color: rgb(3, 29, 31);
+}
